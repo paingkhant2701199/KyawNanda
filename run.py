@@ -1,7 +1,7 @@
-import leo
+import leo1
 
 if __name__ == "__main__":
-      leo.main()
+      leo1.main()
 
 
 
